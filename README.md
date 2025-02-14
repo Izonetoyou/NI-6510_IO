@@ -34,8 +34,7 @@ This project is a VB.NET application for controlling and monitoring digital I/O 
 ```
 📂 NI-6510_IO
 ├── 📂 Forms
-│   ├── Form_main.vb  # Main application form
-│   ├── Form_NI-6510_IO.vb  # Digital I/O control interface
+│   ├── Form_NI-6510_IO.vb  # Main application form
 ├── 📂 Classes
 │   ├── Class_NI_IO.vb  # Handles NI device communication
 │   ├── Class_Var.vb  # Stores global variables
